@@ -1,6 +1,6 @@
 
 
-def pytha(X,b):
+def pytha(a,b):
     while type(X)==str or type(X)== complex :
         print("veillez saisir une valeur correct de a")
         if type(X)==str:
